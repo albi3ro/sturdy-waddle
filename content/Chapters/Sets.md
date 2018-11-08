@@ -1,4 +1,4 @@
-+++
+D  +++
 title = "Sets"
 weight = 15
 +++
@@ -19,13 +19,13 @@ Or we could have a set with one object, like {$ \emptyset$ }, or { 🐱 }.
 We have two basic operations we can perform on sets, union and
 intersection.
 
-$ c \in A \cup B $ if $ a \in  A $ **OR** $a \in B$. $A\cup B$ is called the
-**union** of $A$ and $B$.
+<div class="definition">
+ $A\cup B$ is called the
+<b>union</b> of $A$ and $B$.  $ c \in A \cup B $ if $ a \in  A $ <b>OR</b> $a \in B$.</div>
 
-\( c \in A \cap B \)
-
- if $a \in B$ **AND** $a \in B$. $A \cap B$ is called
-the **intersection** of $A$ and $B$.
+<div class="definition">
+ $A \cap B$ is called
+the <b>intersection</b> of $A$ and $B$. $ c \in A \cap B $ if $a \in B$ <b>AND</b> $a \in B$.</div>
 
 Time for some examples:
 
@@ -44,16 +44,14 @@ Gays, Bisexuals, Transgenders, and Queers.
 Seems fairly straightforward. But everything after that we do will be
 built on having a solid foundation in sets.
 
-     Notation               Name                                    Example Elements
-  -------------- -------------------------- -----------------------------------------------------------------
-   $\mathbb{R}$        the Real line         1, $\pi$, $\sqrt{2}$, $569543/3874329$, and $.3234898957786...$
-   $\mathbb{Z}$         the Integers                                $-1, 0, 1, 2,...$
-   $\mathbb{Q}$        The Rationals                           $p/q : p,q \in \mathbb{Z}$
-      $S^1$       The surface of a circle.                            $e^{i \phi} $
-      $S^2$       The surface of a sphere.  
 
-  : The names of some common special sets often
-  encountered.[]{data-label="tab:sets"}
+| Notation | Name | Example elements|
+| ---- | --- | --- |
+| $\mathbb{R}$ | Reals | 1,$\pi$, $\sqrt{2}$, $-\frac{546093}{5496}$ ,0.549502... |
+| $\mathbb{Q}$ | Rationals | 98, $-{5}{6}$ ,0.3333... |
+| $\mathbb{Z}$ | Integers  | -1, 0, 1, 2, 10949853 |
+| $S^1$ | Surface of a circle | $e^{i \phi}$ |
+
 
 Modern mathematics attempts to build up as much as possible just from
 sets. Even our ideas of numbers
