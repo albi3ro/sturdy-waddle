@@ -1,6 +1,6 @@
 +++
 title = "Topology"
-weight = 15
+weight = 3
 +++
 
 Topology is a minimal amount of structure put onto sets. Once we have

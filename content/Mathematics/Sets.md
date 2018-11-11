@@ -1,6 +1,6 @@
 +++
 title = "Sets"
-weight = 15
+weight = 2
 +++
 
 Sets and Maps
