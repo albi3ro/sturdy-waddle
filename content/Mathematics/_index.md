@@ -1,5 +1,5 @@
 +++
 title = "Mathematics"
 chapter = true
-weight = 1
+weight = 2
 +++
